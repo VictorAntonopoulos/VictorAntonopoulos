@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Nome: Victor Martins Antonopoulos  <br>- Idade: 19 anos  <br>- Paixões: Tecnologia e academia  <br>- Descendência: Grega  <br>- Educação: Cursando Análise e Desenvolvimento de Sistemas na FIAP  <br>- Objetivo: Aprender continuamente e criar soluções inovadoras no mundo da tecnologia</p>
+<p align="left">- Nome: Victor Martins Antonopoulos  <br>- Idade: 20 anos  <br>- Paixões: Tecnologia e academia  <br>- Descendência: Grega  <br>- Educação: Cursando Análise e Desenvolvimento de Sistemas na FIAP  <br>- Objetivo: Aprender continuamente e criar soluções inovadoras no mundo da tecnologia</p>
 
 ###
 
